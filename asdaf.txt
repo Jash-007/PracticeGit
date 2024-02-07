@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asdfgghabdkjcfn
 kgsdkuajgfaslfbl
+=======
+asdfgghabdkjcfn
+>>>>>>> bccfd71 (c)
